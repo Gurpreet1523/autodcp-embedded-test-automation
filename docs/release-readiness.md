@@ -1,0 +1,1 @@
+# Release Readiness Checklist\n\n- [ ] Required tests executed and reviewed\n- [ ] Failures triaged and linked to requirements\n- [ ] Regression suite passes\n- [ ] Security/dependency checks reviewed\n- [ ] Build and environment recorded\n- [ ] Limitations documented\n- [ ] No credentials or sensitive logs\n- [ ] AI-generated cases reviewed by a human\n

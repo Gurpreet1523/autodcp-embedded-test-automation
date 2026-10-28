@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: autodcp-embedded-test-automation
+Version: 0.1.0
+Summary: Automotive DCP test automation portfolio simulation
+Requires-Python: >=3.12
+Requires-Dist: pydantic<3,>=2.8
+Requires-Dist: fastapi<1,>=0.115
+Requires-Dist: uvicorn>=0.30
+Provides-Extra: test
+Requires-Dist: pytest>=8; extra == "test"
+Requires-Dist: pytest-cov; extra == "test"
+Requires-Dist: httpx; extra == "test"
+Requires-Dist: pytest-html; extra == "test"
+Provides-Extra: ai
+Requires-Dist: openai>=1.50; extra == "ai"

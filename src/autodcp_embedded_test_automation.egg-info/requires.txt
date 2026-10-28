@@ -1,0 +1,12 @@
+pydantic<3,>=2.8
+fastapi<1,>=0.115
+uvicorn>=0.30
+
+[ai]
+openai>=1.50
+
+[test]
+pytest>=8
+pytest-cov
+httpx
+pytest-html

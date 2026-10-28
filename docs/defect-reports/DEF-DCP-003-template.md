@@ -1,0 +1,1 @@
+# Defect Report Template\n\n- Defect ID:\n- Title:\n- Requirement ID:\n- Build / commit:\n- Environment:\n- Severity / priority:\n- Preconditions:\n- Steps to reproduce:\n- Expected result:\n- Actual result:\n- Evidence / logs:\n- Suspected root cause (hypothesis until verified):\n- Fix:\n- Regression test:\n- Status:\n

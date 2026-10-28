@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.py[cod]\n.pytest_cache/\n.coverage\nhtmlcov/\nreports/*\n!reports/.gitkeep\n.env\ndist/\nbuild/\n*.egg-info/\n

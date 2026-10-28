@@ -1,0 +1,1 @@
+# Performance extension\n\nAdd controlled load, stress and soak tests after workload targets are defined. Record messages/sec, p50/p95/p99 latency, errors, CPU/memory, recovery time and drops. Publish only reproducible measurements with environment details.\n

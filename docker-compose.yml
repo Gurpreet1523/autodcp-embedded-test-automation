@@ -1,0 +1,8 @@
+services:
+  dcp:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DCP_HOST: "0.0.0.0"
+      DCP_PORT: "8000"

@@ -1,0 +1,1 @@
+def uncovered_requirements(requirement_ids: set[str], covered_requirement_ids: set[str]) -> set[str]:\n    return requirement_ids - covered_requirement_ids\n

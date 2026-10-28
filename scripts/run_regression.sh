@@ -1,0 +1,1 @@
+#!/usr/bin/env bash\nset -euo pipefail\nPYTHONPATH=src python -m pytest tests/regression tests/api tests/unit -v\n

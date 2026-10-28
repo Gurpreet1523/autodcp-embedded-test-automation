@@ -1,0 +1,1 @@
+# Test Generation Prompt\n\nGenerate candidate test cases from supplied requirement IDs and text. Include title, category, preconditions, steps, expected results and assumptions. Do not invent numeric acceptance criteria. Link each case to a supplied requirement. Mark all cases pending review. Never claim a test has executed or passed.\n

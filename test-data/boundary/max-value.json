@@ -1,0 +1,1 @@
+{\n  "ecu_id": "ECU-001", "message_id": "ECU-001-boundary", "sequence": 0,\n  "timestamp": "2026-01-01T12:00:00Z", "signal": "vehicle_speed", "value": 1000.0\n}\n

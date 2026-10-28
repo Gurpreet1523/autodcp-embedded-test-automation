@@ -1,0 +1,1 @@
+# Security extension\n\nAdd malformed/oversized payload tests, authentication tests after authentication exists, dependency audits and log-redaction checks. Run only against your own local environment.\n

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autodcp-embedded-test-automation"
+version = "0.1.0"
+description = "Automotive DCP test automation portfolio simulation"
+requires-python = ">=3.12"
+dependencies = ["pydantic>=2.8,<3", "fastapi>=0.115,<1", "uvicorn>=0.30"]
+
+[project.optional-dependencies]
+test = ["pytest>=8", "pytest-cov", "httpx", "pytest-html"]
+ai = ["openai>=1.50"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

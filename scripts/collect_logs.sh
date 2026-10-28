@@ -1,0 +1,1 @@
+#!/usr/bin/env bash\nset -euo pipefail\necho 'Log collection placeholder: add sanitized app logs and environment details.'\n
